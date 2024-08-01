@@ -1,0 +1,35 @@
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #e0f7fa;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  /* App Container */
+  .App {
+    max-width: 800px;
+    margin: 20px auto;
+    background: #ffffff;
+    padding: 30px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+  }
+  
+  
+  /* Headings */
+  h1, h2 {
+    color: #333333;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    font-weight: bold;
+  }
+  
+  h2 {
+    font-size: 28px;
+    font-weight: semi-bold;
+  }
